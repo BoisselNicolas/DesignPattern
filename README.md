@@ -15,9 +15,10 @@
 ```
 $ git clone git@github.com:BoisselNicolas/DesignPattern.git
 ```
-
-## Singleton 
-
+<details>
+  <summary>Singleton</summary>
+  
+  
 ```
 $ cd singleton
 ```
@@ -36,6 +37,10 @@ Pour éxécuter le programme
 ```
 $ java -cp target/singleton-1.0-SNAPSHOT.jar com.sakolinsb.App
 ```
+  
+ </details>
+
+
 
 ## Versions
 
