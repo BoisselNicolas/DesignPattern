@@ -16,20 +16,25 @@
 $ git clone git@github.com:BoisselNicolas/DesignPattern.git
 ```
 
-## Compilation
-
+## Singleton 
 
 ```
-$ To Do 
+$ cd singleton
+```
+
+### Compilation
+
+```
+$ mvn package
 ```
 
 
-## Usage 
+### Usage 
 
 Pour éxécuter le programme
 
 ```
-$ To Do
+$ java -cp target/singleton-1.0-SNAPSHOT.jar com.sakolinsb.App
 ```
 
 ## Versions
